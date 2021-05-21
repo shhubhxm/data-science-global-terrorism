@@ -11,11 +11,15 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 
 ● Dataset : http://bit.ly/w-data 
 
+<span style="display:block;text-align:center">![](images/1.png)</span>
+
 # Task2
 ## Prediction using Unsupervised ML 
 ● From the given ‘Iris’ dataset, predict the optimum number of  clusters and represent it visually. 
 
 ● Dataset : https://bit.ly/3kXTdox
+
+<span style="display:block;text-align:center">![](images/2.png)</span>
 
 # Task 3
 ## Exploratory Data Analysis 
@@ -27,6 +31,8 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 
 ● Dataset: https://bit.ly/3i4rbWl
 
+<span style="display:block;text-align:center">![](images/3.png)</span>
+
 # Task 4
 ## Exploratory Data Analysis-Terrorism
 ● Perform ‘Exploratory Data Analysis’ on dataset  ‘Global Terrorism’ 
@@ -36,4 +42,6 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 ● What all security issues and insights you can derive by EDA? 
 
 ● Dataset: https://bit.ly/2TK5Xn5
+
+<span style="display:block;text-align:center">![](images/4.png)</span>
 
